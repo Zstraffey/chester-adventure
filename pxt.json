@@ -12,7 +12,8 @@
         "settings-blocks": "github:microsoft/pxt-settings-blocks#v1.0.0",
         "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.2.1",
         "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2",
-        "Color Fading": "github:jwunderl/pxt-color#v0.2.3"
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.3",
+        "arcade-background-scroll": "github:microsoft/arcade-background-scroll#v0.1.2"
     },
     "files": [
         "main.blocks",
