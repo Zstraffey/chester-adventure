@@ -16,11 +16,13 @@
         "arcade-background-scroll": "github:microsoft/arcade-background-scroll#v0.1.2"
     },
     "files": [
-        "main.blocks",
-        "main.ts",
-        "README.md",
-        "assets.json",
-        "main.py"
+    "main.blocks",
+    "main.ts",
+    "README.md",
+    "assets.json",
+    "main.py",
+    "images.g.jres",
+    "images.g.ts"
     ],
     "testFiles": [
         "test.ts"
