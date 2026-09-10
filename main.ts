@@ -5,7 +5,7 @@ namespace StatusBarKind {
     export const game = StatusBarKind.create()
 }
 function createTitleScreen () {
-    scene.setBackgroundImage(assets.image`MenuBG`)
+    scene.setBackgroundImage(assets.image`menuBG`)
     mainTitle = fancyText.create("Chester", 0, 15, fancyText.art_deco_11)
     mainTitle.setPosition(80, 30)
     myMenu = miniMenu.createMenu(
