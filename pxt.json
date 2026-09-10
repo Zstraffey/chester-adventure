@@ -1,0 +1,35 @@
+{
+    "name": "Chester adventure",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "controller": "*",
+        "animation": "*",
+        "radio-broadcast": "*",
+        "arcade-fancy-text": "github:riknoll/arcade-fancy-text#v0.2.2",
+        "arcade-mini-menu": "github:riknoll/arcade-mini-menu#v0.1.0",
+        "sprite-scaling": "*",
+        "settings-blocks": "github:microsoft/pxt-settings-blocks#v1.0.0",
+        "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.2.1",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.3"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "4.1.23",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}
